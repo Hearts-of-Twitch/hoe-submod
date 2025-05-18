@@ -227,3 +227,7 @@ AMN = {
 	color = rgb { 194 255 61 }
 	color_ui = rgb { 194 255 61 }
 }
+SHT = {
+	color = rgb { 247 204 30 }
+	color_ui = { 247 204 30 }
+}

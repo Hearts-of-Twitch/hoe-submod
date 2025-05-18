@@ -324,6 +324,7 @@ country_event = {
         set_variable = { 219.nationality = 11 }
         set_variable = { 253.nationality = 11 }
         set_variable = { 254.nationality = 11 }
+        set_variable = { 385.nationality = 11 }
 
         #Okolopolit
         set_variable = { 190.nationality = 10 }

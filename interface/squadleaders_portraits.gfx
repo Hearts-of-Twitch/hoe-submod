@@ -69,5 +69,15 @@ SpriteTypes = {
 		name = "GFX_portrait_aratoss_parlament"
 		texturefile = "gfx/leaders/ARA/ara_parlament.dds"
 	}
+
+	spriteType = {
+		name = "GFX_portrait_alexander_shtefanov"
+		texturefile = "gfx/leaders/SHT/alexander_shtefanov.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_alexander_shtefanov_vedaet"
+		texturefile = "gfx/leaders/SHT/alexander_shtefanov_vedaet.dds"
+	}
 	
 }

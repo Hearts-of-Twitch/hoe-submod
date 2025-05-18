@@ -1197,4 +1197,19 @@ spriteTypes = {
 	name = "GFX_goal_chb_noschool"
 	texturefile = "gfx/interface/goals/focus_chb_noschool.dds"			
 	}
+
+	spriteType = {
+		name = "GFX_goal_vibory_vibory"
+		texturefile = "gfx/interface/goals/SHT_vibory_vibory.dds"
+	}
+
+	spriteType = {
+		name = "GFX_goal_za_shtefanova"
+		texturefile = "gfx/interface/goals/SHT_za_shtefanova.dds"
+	}
+
+	spriteType = {
+		name = "GFX_goal_za_svetova"
+		texturefile = "gfx/interface/goals/SHT_za_svetova.dds"
+	}
 }
