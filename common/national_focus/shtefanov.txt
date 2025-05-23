@@ -220,7 +220,7 @@ focus_tree = {
 	}
 
 	focus = {
-		id = SHT_16
+		id = podvedem_itogi
 		icon = GFX_surrender_tiny_flag
 		cost = 5
 		x = 8

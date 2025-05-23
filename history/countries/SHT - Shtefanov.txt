@@ -1,7 +1,7 @@
 capital = 385
 
-set_stability = 0.1
-set_war_support = 1
+set_stability = 0.69
+set_war_support = 0.56
 
 set_research_slots = 10
 
@@ -17,15 +17,14 @@ set_politics = {
 
 
 set_popularities = {
-	democratic = 85
-	fascism = 1
-	communism = 5
-	neutrality = 5
-	hypecratia = 4
+	democratic = 68
+	fascism = 0
+	communism = 24
+	neutrality = 0
+	hypecratia = 8
 }
 
 recruit_character = alexander_shtefanov
 recruit_character = alexander_shtefanov_vedaet
 recruit_character = placeholder
-
 

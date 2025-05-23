@@ -792,3 +792,8 @@
  ULT_hypecratia: "Самоуправление Убермаргинала"
  ULT_hypecratia_DEF: "Самоуправление Убермаргинала"
  ULT_hypecratia_ADJ: "Убермаргиналск."
+
+ SHT_democratic: "Временное правительство Штефанова"
+ SHT_democratic_DEF: "Временное правительство Штефанова"
+ SHT_democratic_ADJ: "Врем. прав."
+ SHT: "Штефанов"

@@ -504,3 +504,19 @@ country_event = {
 	is_triggered_only = yes
 	hidden = yes
 }
+
+country_event = {
+    id = CTM.2
+    immediate = {
+        #Monroe doctrine
+        SHT = {
+            remove_ideas = USA_monroe_doctrine_idea
+        }
+    }
+    title = CULTURE.1776.t
+    desc = CULTURE.1776.d
+    fire_only_once = yes
+    is_triggered_only = yes
+    hidden = yes
+    
+}
