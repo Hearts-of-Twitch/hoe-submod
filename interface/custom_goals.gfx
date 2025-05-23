@@ -1212,4 +1212,9 @@ spriteTypes = {
 		name = "GFX_goal_za_svetova"
 		texturefile = "gfx/interface/goals/SHT_za_svetova.dds"
 	}
+
+	spriteType = {
+		name = "GFX_goal_prava_rabochim"
+		texturefile = "gfx/interface/goals/SHT_prava_rabochim.dds"
+	}
 }

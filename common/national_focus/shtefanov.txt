@@ -37,8 +37,8 @@ focus_tree = {
 	}
 
 	focus = {
-		id = SHT_4
-		icon = GFX_surrender_tiny_flag
+		id = prava_rabochim
+		icon = GFX_goal_prava_rabochim
 		cost = 5
 		x = 4
 		y = 2
@@ -49,7 +49,7 @@ focus_tree = {
 	}
 
 	focus = {
-		id = SHT_5
+		id = svobodu_grazdanam
 		icon = GFX_surrender_tiny_flag
 		cost = 5
 		x = 6
@@ -67,10 +67,10 @@ focus_tree = {
 		x = 3
 		y = 3
 		prerequisite = {
-			focus = SHT_4
+			focus = prava_rabochim
 		}
 		prerequisite = {
-			focus = SHT_5
+			focus = svobodu_grazdanam
 		}
 		completion_reward = { }
 	}
@@ -82,10 +82,10 @@ focus_tree = {
 		x = 5
 		y = 3
 		prerequisite = {
-			focus = SHT_4
+			focus = prava_rabochim
 		}
 		prerequisite = {
-			focus = SHT_5
+			focus = svobodu_grazdanam
 		}
 		completion_reward = { }
 	}
@@ -97,10 +97,10 @@ focus_tree = {
 		x = 7
 		y = 3
 		prerequisite = {
-			focus = SHT_4
+			focus = prava_rabochim
 		}
 		prerequisite = {
-			focus = SHT_5
+			focus = svobodu_grazdanam
 		}
 		completion_reward = { }
 	}
