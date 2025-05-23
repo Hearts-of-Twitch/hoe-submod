@@ -50,7 +50,7 @@ focus_tree = {
 
 	focus = {
 		id = svobodu_grazdanam
-		icon = GFX_surrender_tiny_flag
+		icon = GFX_goal_svobodu_grazdanam
 		cost = 5
 		x = 6
 		y = 2
